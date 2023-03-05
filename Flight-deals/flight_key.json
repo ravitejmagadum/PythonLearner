@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flight-price-tracker-378717",
+  "private_key_id": "3b9e7d0587736a6bdab1a350619d457961fec6d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCDKiTVTFrYYEm6\n9GcQRRTXevZQ91HQ5a6C8GwYXucSgaOL3SeJUyPLvSdiBHY7FkfOU4ucmFCySkL5\n4VJh48FmgW9NGrxE/uAVs3kdGs/ofNQc8an84+SjoJa3jAvzMLyoqQwxFA+KnaOz\nzRStjxYTUWckffMl+plR+wrBs1dSEFU7Ragk7kHN5CEAdvzzbJpKkcA/mQAdTekg\nSrLtge9U6dU9oWrBW9IqMqc8imiuDZenICNEDGqGATHpO0ap6lJuUpTmk8iC47Wk\nK+TvhX6rh410dVoJ0yXP3GFIWsaXvCnLWtIE4I5eav3OdBHtd/kCGI+aIfNK8bo2\nk4WQPgkDAgMBAAECggEAL7XAMR/1eXhIyWrGJGpkYt70ws27YmdxW2qVfyXiGl6y\nfRkEHRTzU9Qpg6NI2ERJ+Th1c5AJ5lhR1W/K1hWQzzbso9jCO7yUCQC/4MDUeGYT\nh7W11emVTJmIyRn1bM/BB/55k06POqYNmkTSLTF7X6qAAIuZyqpFY8cTihKwhAYs\nk1vFzWDE4iHi6JHCymPxkvQOFZfFWsMtoOrGc0zyXsyTofOgRs2aJLTyLc4yglf7\nJaDS9SvCGnBlkz3qanE49fxrD++o/VE5fjHF62yxaDpAiW2Hrm68fER6veDWQuuV\na8757VPM7SjHyDRV6V0wnfoWi8DwSlxX2LxFH4RFzQKBgQC35m5Ua60UzEY9rzWE\nLLaCtw2V2hthc7Z5W5nFMlc28DGBvFh4LJeywzQ94IX41NPW72ntE0GzPcTa+XeH\nOODJcSTimEYXbS2SYgfvvRZisRovjmb1vIL8qoBVy6IB0E0cBjCsksx908AeHf3s\nsxnF4eJ4M11uhF/E2VgMmUtyVwKBgQC2lspfyYdXVxnidBHNnLV1eSJ74GIaEYtG\nox9MptbUz7ZqV08euWich24Fwi74bmJTF+wSZdWhDks2fib37grTJ7jZ3qHgAOGK\niRhXqP74Rar2Y7jzoonFRhpZb++rgfBADQ64zU2bQGJSe7dKuehk0uTnpEko+z+g\nT56VaLNrNQKBgQCEtCfRi5HufCoDwTdhFdLuKKIJDMbNX+7BTDR+dIEzB8jx0bQV\npDgjq3E7ZZXHpezoIQPTLB4w9dXkHjj+vzCWrKrtSOzrYsGL7GnFujE5Louy3ZO2\nqD3tjivlvXg+zs2V93GQVq5x7ieolAP0lpl2jjYafxZg9e0V47ECBmzHKQKBgBEC\n95P5GM0AZn78xXPct+NcB+R2wW0gWVOZex8PJFDrkVlTDSIVsDN1QsDymKG41xxa\nzDnilwbMaCGJm2PaH9QQjV5vKbHPIzRfFY+FRUwoYYdXPzIj4KYqo+XVUgUutA2j\nqc16A1MFqqN4t1kU/Rv3sjAK1G4nCoSLJoFRIfZJAoGBALDiy0Oa2/EKWqPF5/2W\nKVMo3/62djqCXspgNoZZTiF0C26tJob/iZElBqxNjzg2zOCoQmK//g6YttWPFVLe\n9MlG45Co0q60e6LUmEU/BahEynbgqAJptYxecosjdfNW0FHu3gmyRFxVSr1R4w/a\niEHLiDvcm4kgG5rpJ4PlqeaG\n-----END PRIVATE KEY-----\n",
+  "client_email": "accessgoogleapi@flight-price-tracker-378717.iam.gserviceaccount.com",
+  "client_id": "111235367661869429319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accessgoogleapi%40flight-price-tracker-378717.iam.gserviceaccount.com"
+}
